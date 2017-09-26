@@ -19,3 +19,16 @@ h2 {
   color: #666666;
   background: #00B7EA;
 }
+
+details {
+  font-style: italic;
+}
+
+summary {
+  font-style: normal;
+}
+
+footer {
+  background: #666666;
+}
+
