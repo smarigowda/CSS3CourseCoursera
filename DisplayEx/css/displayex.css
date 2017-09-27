@@ -1,0 +1,18 @@
+span {
+  background-color: green;
+  height: 50px; /* no-op by default */
+  width: 75px; /* no-op by default */
+  /* display: block; */
+}
+
+div {
+  background-color: red;
+  width: 45%;
+  height: 100px;
+}
+
+p {
+  background-color: yellow;
+  width: 200px;
+  height: 100px;
+}
