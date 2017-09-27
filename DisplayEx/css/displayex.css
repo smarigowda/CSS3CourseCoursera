@@ -2,7 +2,7 @@ span {
   background-color: green;
   height: 50px; /* no-op by default */
   width: 75px; /* no-op by default */
-  display: block;
+  display: inline-block;
 }
 
 div {
