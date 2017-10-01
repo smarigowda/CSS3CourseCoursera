@@ -1,7 +1,12 @@
-body {
+/* body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.2em;
   color: darkslategray;
+} */
+
+h1, h3, h5 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 p {
   font-family: Georgia, 'Times New Roman', Times, serif;
