@@ -26,5 +26,9 @@ h1 {
 }
 
 .lspace1em {
-  letter-spacing: 1em;
+  letter-spacing: -0.05em;
+}
+
+.wspace1em {
+  word-spacing: 1em;
 }
