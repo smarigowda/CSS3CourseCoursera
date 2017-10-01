@@ -91,3 +91,21 @@ img.normal {
   display: block;
   margin-left: 1em;
 }
+
+img.middle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.l-float {
+  float: left;
+}
+
+img.r-float {
+  float: right;
+}
+
+img.no-wrap {
+  clear: both;
+}
