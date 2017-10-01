@@ -72,3 +72,8 @@ p#mission-statement {
   font-size: 3em;
   color: darkblue;
 }
+
+#special {
+  font-size: 1.5em;
+  font-style: italic;
+}
