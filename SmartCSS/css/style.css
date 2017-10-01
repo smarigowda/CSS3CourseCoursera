@@ -11,6 +11,7 @@ p.important {
 h1 {
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 2em;
+  text-align: center;
 }
 
 .typewriter {
@@ -35,4 +36,8 @@ h1 {
 
 p.more-readable {
   line-height: 2em;
+}
+
+p.pretty {
+  text-align: justify;
 }
