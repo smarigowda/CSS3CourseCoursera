@@ -66,3 +66,9 @@ p.boxed {
   border: 5px solid red;
   padding: 0.1em;
 }
+
+p#mission-statement {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 3em;
+  color: darkblue;
+}
