@@ -40,4 +40,10 @@ p.more-readable {
 
 p.pretty {
   text-align: justify;
+  text-indent: 1em;
+}
+
+blockquote {
+  font-size: 1.4em;
+  color: darkslategrey;
 }
