@@ -16,3 +16,7 @@ h1 {
 .typewriter {
   font-family: "Currier New", Courier, monospace;
 }
+
+.emphasized {
+  font-style: italic;
+}
