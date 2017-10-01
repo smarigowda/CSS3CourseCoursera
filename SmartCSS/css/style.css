@@ -52,3 +52,6 @@ p.offset {
   margin: 2em;
 }
 
+p.boxed {
+  border: 5px solid red;
+}
